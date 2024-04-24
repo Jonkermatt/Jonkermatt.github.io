@@ -15,8 +15,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Excel Marketing Analysis](https://www.linkedin.com/pulse/analysing-doordash-sales-marketing-data-matt-jonkers-znhoe/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/analysing-doordash-sales-marketing-data-matt-jonkers-znhoe/)
+Using Excel I analysed 2,000+ rows of customer behavioural marketing data from an Ifoods dataset (Brazlian Doordash).   
 
 
 ---
