@@ -1,8 +1,7 @@
 title: Matt Jonkers # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-Hi there, I'm Matt. 
-  I want some pizza  <br><br>
+Hi there <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
