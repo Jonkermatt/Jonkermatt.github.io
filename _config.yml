@@ -1,10 +1,9 @@
 title: Matt Jonkers # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: Hi there! I'm Matt, a passionate individual embarking on a career transaition into the world of data analytics. 
-Through my background in Regulatory Complaince and experience in investigations, I've developed a passion for data. 
-I'm eager to leverage my previous experience and show my analytical mindset and problem solving skills to diver deeper into the realm of data. <br><br>
-I am currently completing a data accelerator bootcamp building projects using Excel, Tableau and SQL. 
-<br><br>
-  <a href="https://www.linkedin.com/in/matt-jonkers/">View My LinkedIn Profile</a> 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  It;s almost christmas 
+  I want some pizza  <br><br>
+  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
