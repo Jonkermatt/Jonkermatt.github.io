@@ -4,10 +4,6 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
 ---
 #### [Tableau Analysis](https://www.linkedin.com/pulse/exploring-excellence-overview-massachusetts-education-matt-jonkers-on9ze/?trackingId=%2FzCqdrWkSk6aAu03%2BoIV0A%3D%3D)
 [<img src="images/DOEimage.png?raw=true"/>](https://www.linkedin.com/pulse/exploring-excellence-overview-massachusetts-education-matt-jonkers-on9ze/?trackingId=%2FzCqdrWkSk6aAu03%2BoIV0A%3D%3D)
@@ -22,10 +18,7 @@ Using Excel I analysed 2,000+ rows of customer behavioural marketing data from a
 ---
 #### [SQL World Bank Project](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
 [<img src="images/WorldBankimage.png?raw=true"/>](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+In this case study from Data Analytics Accelerator, I was prompted to conduct analysis using a World Bank dataset. I provided an overview ofthe financial & accounting landscape across the globe.
 
 ---
 
