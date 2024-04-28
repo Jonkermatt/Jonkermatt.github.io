@@ -20,8 +20,8 @@ Using Excel I analysed 2,000+ rows of customer behavioural marketing data from a
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/analysing-doordash-sales-marketing-data-matt-jonkers-znhoe/)
+#### [SQL World Bank Project](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
