@@ -21,7 +21,7 @@ Using Excel I analysed 2,000+ rows of customer behavioural marketing data from a
 
 ---
 #### [SQL World Bank Project](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
-[<img src="images/WorldBankimage?raw=true"/>](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
+[<img src="images/WorldBankimage.png?raw=true"/>](https://www.linkedin.com/pulse/unlocking-world-banks-financial-landscape-matt-jonkers-9zape/?trackingId=x5LBKBb0SEiNAl53wPCRJw%3D%3D)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
