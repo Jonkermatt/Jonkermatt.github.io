@@ -9,9 +9,9 @@
 Tolulope is the best
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [Excel Marketing Analysis](https://www.linkedin.com/pulse/analysing-doordash-sales-marketing-data-matt-jonkers-znhoe/)
+[<img src="images/Imagedoordash.pg.png?raw=true"/>](https://www.linkedin.com/pulse/analysing-doordash-sales-marketing-data-matt-jonkers-znhoe/)
+Using Excel I analysed 2,000+ rows of customer behavioural marketing data from an Ifoods dataset (Brazlian Doordash). 
 
 ---
 #### [Excel Marketing Analysis](https://www.linkedin.com/pulse/analysing-doordash-sales-marketing-data-matt-jonkers-znhoe/)
