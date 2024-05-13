@@ -21,7 +21,9 @@ Using Excel I analysed 2,000+ rows of customer behavioural marketing data from a
 In this case study from Data Analytics Accelerator, I was prompted to conduct analysis using a World Bank dataset. I provided an overview ofthe financial & accounting landscape across the globe.
 
 ---
-
+#### [SQL Healthcare Project](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
+[<img src="images/WorldBankimage.png?raw=true"/>](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
+In this case study I was hired as a hypothetical data analyst to answer a series of tasks using intermediate SQL commands.
 ---
 
 
