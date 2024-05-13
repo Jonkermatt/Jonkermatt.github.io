@@ -22,7 +22,7 @@ In this case study from Data Analytics Accelerator, I was prompted to conduct an
 
 ---
 #### [SQL Healthcare Project](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
-[<img src="images/WorldBankimage.png?raw=true"/>](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
+[<img src="images/health.png?raw=true"/>](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
 In this case study I was hired as a hypothetical data analyst to answer a series of tasks using intermediate SQL commands.
 ---
 
