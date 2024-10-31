@@ -27,7 +27,7 @@ In this case study I was hired as a hypothetical data analyst to answer a series
 ---
 #### [Tableau data visulisation NBA Project](https://www.linkedin.com/pulse/nba-numbers-matt-jonkers-qp2be/?trackingId=pjPfZ73CRUKXyBvxSA0EAg%3D%3D)
 [<img src="images/nba.webp?raw=true"/>](https://www.linkedin.com/pulse/nba-numbers-matt-jonkers-qp2be/?trackingId=pjPfZ73CRUKXyBvxSA0EAg%3D%3D)
-In this case study I was hired as a hypothetical data analyst to answer a series of tasks using intermediate SQL commands.
+In this case study I was hired as an analyst to create data visulisations using tableau. 
 
 
 
