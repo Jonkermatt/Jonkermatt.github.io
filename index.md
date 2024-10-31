@@ -25,7 +25,9 @@ In this case study from Data Analytics Accelerator, I was prompted to conduct an
 [<img src="images/health.png?raw=true"/>](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
 In this case study I was hired as a hypothetical data analyst to answer a series of tasks using intermediate SQL commands.
 ---
-
+#### [Tableau data visulisation NBA Project]([https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/](https://www.linkedin.com/pulse/nba-numbers-matt-jonkers-qp2be/?trackingId=pjPfZ73CRUKXyBvxSA0EAg%3D%3D))
+[<img src="images/health.png?raw=true"/>](https://www.linkedin.com/pulse/patient-healthcare-analysis-using-sql-matt-jonkers-pjxoe/)
+In this case study I was hired as a hypothetical data analyst to answer a series of tasks using intermediate SQL commands.
 
 
 
